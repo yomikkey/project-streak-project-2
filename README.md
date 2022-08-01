@@ -2,7 +2,7 @@
 ## HTML-CSS
 
 ## Deployed Link
-### https://restaurant-that-only.netlify.app/
+### https://justice-is.netlify.app/
 
 [![N|Solid](https://ineuron.ai/images/ineuron-logo.png)](https://ineuron.ai/)
 
